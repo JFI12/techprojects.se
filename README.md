@@ -1,2 +1,7 @@
 # techprojects.se
-First pilot-project where one junior engineer helped two high-school students setup the AR4 robot. This approach shows that undergraduate engineers and ambitious high school students should get more opportunities in undergraduate researc, which could generate value for companies, improve education and develop social environments like MakerSpaces.
+
+Pilot project: One engineer and two high school students built the AR4 robot
+* Youtube demo: https://www.youtube.com/watch?v=Vm7JJs7qrro
+* Source: https://anninrobotics.com/
+
+Goal: Convince large companies to offer relevant projects to undergraduate engineers and ambitious high school students—creating company value, improving education, and fostering a tech culture where people gather in MakerSpaces instead of bars.
