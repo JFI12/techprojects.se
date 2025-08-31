@@ -9,8 +9,7 @@ One engineer and two high school students built the **AR4 robot** for autonomous
 ---
 
 ### 🌍 Goal  
-Convince large companies to offer relevant projects to undergraduate engineers and ambitious high school students—  
-creating company value, improving education, and fostering a tech culture where people gather in **MakerSpaces instead of bars**.  
+Convince large companies to offer relevant projects to undergraduate engineers and ambitious high school students—creating company value, improving education, and fostering a tech culture where people gather in **MakerSpaces instead of bars**.  
 
 ---
 
