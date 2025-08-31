@@ -1,6 +1,6 @@
 # techprojects.se
 
-Pilot project: One engineer and two high school students built the AR4 robot
+Pilot project: One engineer and two high school students built the AR4 robot for autonomous cleaning of lab-glass substrates
 * Youtube demo: https://www.youtube.com/watch?v=Vm7JJs7qrro
 * Source: https://anninrobotics.com/
 
