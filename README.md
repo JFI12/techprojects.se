@@ -29,3 +29,6 @@ Connecting students with companies to create value, improve education, and foste
 - Slower than servo motors  
 
 ---
+
+## 🧩 Extra Resources  
+Additional **glass-substrate rack STL files** for 3D printing are included in the project.  
