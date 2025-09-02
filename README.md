@@ -1,11 +1,14 @@
 # TechProjects.se 🤖  
 
 ### Pilot Project  
-Together, one engineer and two high school students assembled the AR4 robot in a MakerSpace to automate lab-glass cleaning at IFM, Linköping University.
+An engineer and two high school students collaborated to assemble the **AR4 robot** in a MakerSpace.  
+The robot was programmed to **automate lab-glass cleaning** at IFM, Linköping University.  
 
-- 🎥 [YouTube Demo](https://www.youtube.com/watch?v=Vm7JJs7qrro)  
-- 📦 [AR4 Source](https://anninrobotics.com/)  
-- 🌐 [techprojects.se](https://techprojects.se)  
+- 🎥 [Watch the Demo on YouTube](https://www.youtube.com/watch?v=Vm7JJs7qrro)  
+- 📦 [AR4 Robot Source – Annin Robotics](https://anninrobotics.com/)  
+- 🌐 [Visit TechProjects.se](https://techprojects.se)  
+- 💬 [Join the Community on Discord](https://discord.gg/mAfgDqKv)
+
 ---
 
 ### 🌍 Goal  
