@@ -19,7 +19,7 @@ Connecting students with companies to create value, improve education, and foste
 ### 💡 AR4 Value  
 - Cost: ~2200 USD  
 - Assembly: ~150 hours (+ ~50 hours troubleshooting)  
-- Comparable to a 5000 USD commercial robot arm  
+- Comparable to a ~5000 USD commercial robot arm  
 
 ---
 
